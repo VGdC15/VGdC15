@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, soy Verónica Lìa Castillo ✨</h1>
+<h1 align="center">✨ Hola, soy Verónica Lia Castillo ✨</h1>
 <h3 align="center">Desarrolladora Web | Angular · NestJS · MongoDB</h3>
 
 <p align="center">
