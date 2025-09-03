@@ -44,8 +44,8 @@
 ---
 
 ### 🌟 Proyectos destacados
-- 🎮 [Sala de Juegos en Angular](https://github.com/VGdC15/tu-repo)
-- 🎵 [Red Social de Fiestas Electrónicas](https://github.com/VGdC15/tu-repo)
+- 🎮 [Sala de Juegos en Angular](https://github.com/VGdC15/TP-1---Sala-de-juegos)
+- 🎵 [Red Social de Fiestas Electrónicas](https://github.com/VGdC15/TP-2--RedSocial)
 - 🩺 [Cuidame App (Nest + Angular + Mongo)](https://github.com/VGdC15/tu-repo)
 
 ---
