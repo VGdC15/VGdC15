@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, soy Verónica Lia Castillo ✨</h1>
+<h1 align="center">✨ Hola, soy Verónica Lía Castillo ✨</h1>
 <h3 align="center">Fullstack Developer | Angular · NestJS · MongoDB</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 💻 Sobre mí
 Soy desarrolladora **Fullstack**, enfocada en la creación de aplicaciones web completas, desde la interfaz hasta la lógica de negocio y la base de datos.  
-Me interesa construir soluciones reales, con código claro, arquitectura ordenada y foco en la experiencia del usuario.
+Me interesa construir soluciones reales, con arquitectura clara, código mantenible y foco en la experiencia del usuario.
 
 ---
 
@@ -38,16 +38,23 @@ Me interesa construir soluciones reales, con código claro, arquitectura ordenad
 
 ### 🌟 Proyecto destacado
 #### 🎵 Red Social de Fiestas Electrónicas  
-**Aplicación fullstack desarrollada con Angular, NestJS y MongoDB**, como proyecto integrador utilizando las últimas tecnologías aplicadas en la carrera.
+Aplicación **fullstack** desarrollada con **Angular, NestJS y MongoDB**, como proyecto integrador utilizando las últimas tecnologías aplicadas en la carrera.
 
-**Características principales:**
+**Incluye:**
 - Frontend en Angular con manejo de estado y navegación
 - Backend en NestJS con API REST
 - Persistencia de datos en MongoDB
 - Lógica de usuarios y publicaciones
-- Arquitectura separada frontend / backend
+- Separación frontend / backend
 
 👉 [Ver repositorio](https://github.com/VGdC15/TP-2--RedSocial)
+
+---
+
+### 📁 Otros proyectos
+- 🎮 **Sala de Juegos (Angular)**  
+  Aplicación web con múltiples juegos, navegación y manejo de estado.  
+  👉 [Ver repositorio](https://github.com/VGdC15/TP-1---Sala-de-juegos)
 
 ---
 
