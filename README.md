@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Angular · NestJS · MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9776F&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Web+apps+end-to-end;Diseñadora+de+Indumentaria+%F0%9F%91%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D9776F&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Web+apps+end-to-end;Data+Analysis+%26+Modeling;Diseñadora+de+Indumentaria+%F0%9F%91%97" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,8 @@
 ### 💻 Sobre mí
 Soy desarrolladora **Fullstack**, enfocada en la creación de aplicaciones web completas, desde la interfaz hasta la lógica de negocio y la base de datos.  
 Me interesa construir soluciones reales, con arquitectura clara, código mantenible y foco en la experiencia del usuario.
+
+En paralelo, estoy profundizando mi formación en **análisis de datos y modelado**, integrando herramientas estadísticas y modelos interpretables para el análisis de información compleja.
 
 ---
 
@@ -26,13 +28,18 @@ Me interesa construir soluciones reales, con arquitectura clara, código manteni
 
 ---
 
-### 🧠 Conocimientos complementarios
+### 📊 Data Analysis & Modeling
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
 </p>
+
+Trabajo con **análisis exploratorio, visualización de datos y modelos estadísticos**, con foco en la interpretabilidad.  
+Uno de los proyectos más relevantes en esta línea es el análisis de microdatos de la **EPH (INDEC)**, donde desarrollé un **modelo de Árbol de Decisión** para la imputación de ingresos reales no declarados, evaluando su rendimiento y analizando la influencia de las variables explicativas.
+
+👉 Mi objetivo es **seguir profundizando mis estudios en esta rama**, integrando análisis de datos y desarrollo de software.
 
 ---
 
@@ -55,6 +62,10 @@ Aplicación **fullstack** desarrollada con **Angular, NestJS y MongoDB**, como p
 - 🎮 **Sala de Juegos (Angular)**  
   Aplicación web con múltiples juegos, navegación y manejo de estado.  
   👉 [Ver repositorio](https://github.com/VGdC15/TP-1---Sala-de-juegos)
+
+- 📊 **Análisis del Mercado Laboral Argentino (EPH)**  
+  Proyecto de análisis de datos y modelado con Árbol de Decisión para imputación de ingresos reales.  
+  👉 [Ver repositorio](LINK_AL_REPO_EPH)
 
 ---
 
