@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Proposal 06 - Constellation Light</title>
+  <desc id="desc">Animated GitHub profile banner for Verónica Lía Castillo</desc>
+  <rect width="1200" height="300" rx="28" fill="#FFF9EF"/>
+
+  <g transform="translate(72 70)">
+    <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#D9776F">SOFTWARE DEVELOPER</text>
+    <text x="0" y="62" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#1F1F1F">Verónica Lía Castillo</text>
+    <text x="0" y="124" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" fill="#4A4742">Automation · Web &amp; Mobile Products</text>
+  </g>
+
+  <g transform="translate(870 188)">
+    <rect width="220" height="50" rx="25" fill="#1F1F1F"/>
+    <text x="110" y="31" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#FFF9EF">lógica + diseño</text>
+  </g>
+
+  <g transform="translate(810 30)">
+    <path d="M24 146 L112 74 L182 106 L250 48 L318 82" fill="none" stroke="#D6CFC3" stroke-width="1.8"/>
+    <path d="M24 146 L112 74 L182 106 L250 48 L318 82" fill="none" stroke="#F4C84A" stroke-width="3" stroke-dasharray="16 220">
+      <animate attributeName="stroke-dashoffset" from="260" to="0" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="24" cy="146" r="6" fill="#D9776F"><animate attributeName="r" values="5;7;5" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="112" cy="74" r="5" fill="#F4C84A"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="182" cy="106" r="4" fill="#D9776F"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="48" r="7" fill="#F4C84A"><animate attributeName="r" values="6;8;6" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="318" cy="82" r="5" fill="#F4C84A"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/></circle>
+
+    <!-- Star 1 -->
+    <path d="M289 12 l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#F4C84A">
+      <animateTransform attributeName="transform" type="rotate" from="0 289 26" to="360 289 26" dur="10s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Star 2 -->
+    <path d="M259 1 l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#D9776F">
+      <animateTransform attributeName="transform" type="rotate" from="0 259 11" to="-360 259 11" dur="12s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Star 3 -->
+    <path d="M340 29 l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#F4C84A">
+      <animateTransform attributeName="transform" type="rotate" from="0 340 39" to="360 340 39" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
