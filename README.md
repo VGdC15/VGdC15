@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg.svg">
   <img alt="Verónica Lía Castillo — Software Developer enfocada en automatización, productos web y mobile" src="./assets/profile-hero-light.svg" width="100%">
 </picture>
 
