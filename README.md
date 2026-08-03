@@ -1,18 +1,22 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg.svg">
-  <img alt="Verónica Lía Castillo — Software Developer enfocada en automatización, productos web y mobile" src="./assets/profile-hero-light.svg" width="100%">
+  <img
+    src="./assets/profile-hero-light.svg.svg"
+    alt="Verónica Lía Castillo — Software Developer enfocada en automatización, productos web y mobile"
+    width="100%"
+  >
 </picture>
 
 <p align="center">
   <a href="https://veronica-castillo.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-F4C84A?style=flat-square&logo=vercel&logoColor=1F1F1F" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-F4C84A?style=for-the-badge&logo=vercel&logoColor=1F1F1F" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/veronica-l-castillo">
-    <img src="https://img.shields.io/badge/LINKEDIN-1F1F1F?style=flat-square&logo=linkedin&logoColor=F4C84A" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-11131A?style=for-the-badge&logo=linkedin&logoColor=F4C84A" alt="LinkedIn">
   </a>
   <a href="mailto:veronicalcastillo153@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D9776F?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-D9776F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -23,150 +27,244 @@
   >
 </p>
 
-Sobre mí
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.gif">
+  <img src="./assets/section-about-light.gif" alt="Sobre mí" width="100%">
+</picture>
+
+<br>
 
 Soy desarrolladora de software y diseñadora, con una mirada integral sobre producto, experiencia de usuario y procesos.
 
-Me interesa construir soluciones que tengan un impacto concreto: automatizar tareas repetitivas, ordenar información compleja, reducir errores y transformar necesidades reales en herramientas simples de usar.
-
-Actualmente trabajo principalmente con:
-
-Automatizaciones, testing y herramientas internas con Python.
-
-Aplicaciones web full stack con Angular, NestJS y MongoDB.
-
-Productos mobile, combinando lógica, usabilidad y diseño.
-
-Datos y dashboards para convertir información en decisiones.
-
-Mi diferencial está en unir pensamiento lógico, sensibilidad visual y comprensión del problema antes de escribir la primera línea de código.
-
-Lo que construyo
+Me interesa construir soluciones con impacto concreto: automatizar tareas repetitivas, ordenar información compleja, reducir errores y transformar necesidades reales en herramientas simples de usar.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Automatización</h3>
+      <p align="center">Testing, herramientas internas y procesos que dejan de depender del trabajo manual.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Desarrollo full stack</h3>
+      <p align="center">Productos web completos: interfaz, API, lógica de negocio y persistencia de datos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Producto mobile</h3>
+      <p align="center">Experiencias pensadas para contextos reales de uso, combinando lógica, usabilidad y diseño.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Datos</h3>
+      <p align="center">Análisis y dashboards para transformar información compleja en decisiones claras.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Mi diferencial:</strong> unir pensamiento lógico, sensibilidad visual y comprensión del problema antes de escribir la primera línea de código.
+</p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-build-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-build-light.gif">
+  <img src="./assets/section-build-light.gif" alt="Lo que construyo" width="100%">
+</picture>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
       <h3>⚙️ Automatizaciones</h3>
       <p>Procesos que dejan de depender de tareas manuales, archivos dispersos o controles repetitivos.</p>
-      <p><code>Python</code> <code>Excel</code> <code>APIs</code> <code>GitHub Actions</code></p>
+      <p><code>Python</code> <code>Excel</code> <code>APIs</code> <code>CI</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Productos web</h3>
-      <p>Aplicaciones completas, desde la interfaz y la experiencia hasta la API, la lógica de negocio y los datos.</p>
+    <td width="33%" valign="top" align="center">
+      <h3>🌐 Productos web</h3>
+      <p>Aplicaciones completas, desde la experiencia visual hasta la API, la lógica y los datos.</p>
       <p><code>Angular</code> <code>NestJS</code> <code>MongoDB</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>📱 Experiencias mobile</h3>
-      <p>Aplicaciones pensadas para contextos reales de uso, con foco en recorridos claros y decisiones de producto.</p>
+      <p>Aplicaciones claras y usables, construidas con una mirada integral de producto.</p>
       <p><code>Android</code> <code>UX</code> <code>Product Design</code></p>
     </td>
   </tr>
 </table>
 
-Proyectos destacados
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-projects-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-projects-light.gif">
+  <img src="./assets/section-projects-light.gif" alt="Proyectos destacados" width="100%">
+</picture>
+
+<br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 Root & Co.</h3>
-      <p><strong>Aplicación Android mobile desarrollada en equipo.</strong></p>
+      <h3 align="center">🌱 Root & Co.</h3>
+      <p align="center"><strong>Aplicación Android mobile desarrollada en equipo.</strong></p>
       <p>Un proyecto especialmente valioso por el desafío de aprender tecnología mobile mientras construíamos una experiencia completa y coherente entre tres personas.</p>
-      <p><strong>Foco:</strong> Android · trabajo colaborativo · experiencia de usuario · producto mobile.</p>
-      <a href="https://veronica-castillo.vercel.app/">Ver en mi portfolio →</a>
+      <p align="center"><code>Android</code> <code>UX</code> <code>Trabajo colaborativo</code></p>
+      <p align="center"><a href="https://veronica-castillo.vercel.app/"><strong>Ver en mi portfolio →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Automation Testing Framework</h3>
-      <p><strong>Framework de pruebas UI y API para SauceDemo.</strong></p>
-      <p>Incluye Page Object Model, Pytest, Selenium, Requests, datos externos, logging, reportes HTML, screenshots automáticos y ejecución con GitHub Actions.</p>
-      <p><strong>Stack:</strong> Python · Pytest · Selenium · API Testing · CI.</p>
-      <a href="https://github.com/VGdC15/Proyecto-final-Automation-testing-veronica-castillo">Ver repositorio →</a>
+      <h3 align="center">🧪 Automation Testing Framework</h3>
+      <p align="center"><strong>Framework de pruebas UI y API para SauceDemo.</strong></p>
+      <p>Page Object Model, Pytest, Selenium, Requests, datos externos, logging, reportes HTML, screenshots automáticos y ejecución con GitHub Actions.</p>
+      <p align="center"><code>Python</code> <code>Pytest</code> <code>Selenium</code> <code>CI</code></p>
+      <p align="center"><a href="https://github.com/VGdC15/Proyecto-final-Automation-testing-veronica-castillo"><strong>Ver repositorio →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📋 Planificador Fono</h3>
-      <p><strong>Herramienta de escritorio para automatizar la planificación académica.</strong></p>
-      <p>Procesa información desde Excel, evalúa correlatividades y genera reportes de materias disponibles y bloqueadas mediante una interfaz gráfica.</p>
-      <p><strong>Stack:</strong> Python · Tkinter · Pandas · Excel · PyInstaller.</p>
-      <a href="https://veronica-castillo.vercel.app/">Ver en mi portfolio →</a>
+      <h3 align="center">📋 Planificador Fono</h3>
+      <p align="center"><strong>Herramienta para automatizar la planificación académica.</strong></p>
+      <p>Procesa datos desde Excel, evalúa correlatividades y genera reportes de materias disponibles y bloqueadas mediante una interfaz gráfica.</p>
+      <p align="center"><code>Python</code> <code>Tkinter</code> <code>Pandas</code> <code>PyInstaller</code></p>
+      <p align="center"><a href="https://veronica-castillo.vercel.app/"><strong>Ver en mi portfolio →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 Red Social de Fiestas Electrónicas</h3>
-      <p><strong>Aplicación full stack con perfiles, publicaciones, interacción y administración.</strong></p>
-      <p>Incluye imágenes, likes, comentarios editables, roles, moderación, dashboard administrativo y notificaciones en tiempo real.</p>
-      <p><strong>Stack:</strong> Angular · NestJS · MongoDB · WebSockets.</p>
-      <a href="https://github.com/VGdC15/TP-2--RedSocial">Ver repositorio →</a>
+      <h3 align="center">🎵 Red Social de Fiestas Electrónicas</h3>
+      <p align="center"><strong>Aplicación full stack con interacción y administración.</strong></p>
+      <p>Perfiles, publicaciones, imágenes, likes, comentarios editables, roles, moderación, dashboard administrativo y notificaciones en tiempo real.</p>
+      <p align="center"><code>Angular</code> <code>NestJS</code> <code>MongoDB</code> <code>WebSockets</code></p>
+      <p align="center"><a href="https://github.com/VGdC15/TP-2--RedSocial"><strong>Ver repositorio →</strong></a></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><strong>Ver más proyectos</strong></summary>
+  <summary><strong>✦ Abrir más proyectos</strong></summary>
   <br>
 
-Sala de Juegos — Aplicación Angular con múltiples juegos, chat, puntajes y diseño responsive.Ver repositorio →
-
-Análisis del mercado laboral argentino — Limpieza, exploración y modelado de microdatos de la EPH con Python.Ver repositorio →
-
-Portfolio personal — Experiencia web desarrollada en Angular para presentar mis proyectos desde una mirada visual y narrativa.Visitar portfolio →
-
+  <table>
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <strong>🎮 Sala de Juegos</strong><br><br>
+        Angular, múltiples juegos, chat, puntajes y diseño responsive.<br><br>
+        <a href="https://github.com/VGdC15/TP-1---Sala-de-juegos">Ver repositorio →</a>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <strong>📊 Mercado laboral argentino</strong><br><br>
+        Limpieza, exploración y modelado de microdatos de la EPH con Python.<br><br>
+        <a href="https://github.com/VGdC15/Int-Analisis-de-datos---TP-FINAL">Ver repositorio →</a>
+      </td>
+      <td width="33%" valign="top" align="center">
+        <strong>✨ Portfolio personal</strong><br><br>
+        Experiencia Angular para presentar proyectos desde una mirada visual y narrativa.<br><br>
+        <a href="https://veronica-castillo.vercel.app/">Visitar portfolio →</a>
+      </td>
+    </tr>
+  </table>
 </details>
 
-Stack
+<br>
 
-Desarrollo de producto
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-stack-light.gif">
+  <img src="./assets/section-stack-light.gif" alt="Stack tecnológico" width="100%">
+</picture>
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
-</p>
+<br>
 
-Automatización, testing y datos
+<details open>
+  <summary><strong>🧩 Desarrollo de producto</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Angular-11131A?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular">
+    <img src="https://img.shields.io/badge/TypeScript-11131A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+    <img src="https://img.shields.io/badge/NestJS-11131A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
+    <img src="https://img.shields.io/badge/Node.js-11131A?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="Node.js">
+    <img src="https://img.shields.io/badge/MongoDB-11131A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Android-11131A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android">
+    <img src="https://img.shields.io/badge/SCSS-11131A?style=for-the-badge&logo=sass&logoColor=CC6699" alt="SCSS">
+  </p>
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/REST_APIs-1F1F1F?style=flat-square&logo=fastapi&logoColor=F4C84A" alt="REST APIs">
-</p>
+<details open>
+  <summary><strong>⚙️ Automatización, testing y datos</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-11131A?style=for-the-badge&logo=python&logoColor=F4C84A" alt="Python">
+    <img src="https://img.shields.io/badge/Pytest-11131A?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Pytest">
+    <img src="https://img.shields.io/badge/Selenium-11131A?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium">
+    <img src="https://img.shields.io/badge/Pandas-11131A?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas">
+    <img src="https://img.shields.io/badge/GitHub_Actions-11131A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/REST_APIs-11131A?style=for-the-badge&logo=fastapi&logoColor=F4C84A" alt="REST APIs">
+  </p>
+</details>
 
-Mi forma de trabajar
+<br>
 
-Entender el problema
-        ↓
-Detectar fricción y tareas repetitivas
-        ↓
-Diseñar una solución clara
-        ↓
-Construir, probar y documentar
-        ↓
-Medir qué mejoró
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-process-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-process-light.gif">
+  <img src="./assets/section-process-light.gif" alt="Mi forma de trabajar" width="100%">
+</picture>
 
-No me interesa sumar tecnología por decoración. Me interesa elegir la herramienta que haga que una solución sea más clara, mantenible y útil.
+<br>
 
-Actualmente
-
-Profundizando en automatización de procesos, integraciones y herramientas de gestión.
-
-Explorando aplicaciones prácticas de IA aplicada a productos y flujos de trabajo.
-
-Construyendo soluciones que combinen desarrollo, datos y diseño.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/workflow-light.gif">
+  <img src="./assets/workflow-light.gif" alt="Entender, detectar, diseñar, construir y medir" width="100%">
+</picture>
 
 <p align="center">
-  <strong>Diseño, lógica y código para convertir procesos complejos en productos simples.</strong>
+  No me interesa sumar tecnología por decoración.<br>
+  Me interesa elegir la herramienta que haga que una solución sea <strong>más clara, mantenible y útil</strong>.
 </p>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-now-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-now-light.gif">
+  <img src="./assets/section-now-light.gif" alt="En qué estoy ahora" width="100%">
+</picture>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ Automatización</h3>
+      <p>Procesos, integraciones y herramientas de gestión.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 IA aplicada</h3>
+      <p>Usos concretos dentro de productos y flujos de trabajo.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>✦ Producto</h3>
+      <p>Soluciones que combinan desarrollo, datos y diseño.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/closing-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/closing-light.gif">
+  <img src="./assets/closing-light.gif" alt="Diseño, lógica y código para convertir procesos complejos en productos simples" width="100%">
+</picture>
+
 <p align="center">
-  <a href="https://veronica-castillo.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://github.com/VGdC15">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/veronica-l-castillo">LinkedIn</a>
+  <a href="https://veronica-castillo.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/VGdC15"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/veronica-l-castillo"><strong>LinkedIn</strong></a>
 </p>
